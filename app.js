@@ -8,5 +8,5 @@ app.use(usuariosRouter);
 app.use(articulosRouter);
 
 console.log("Ejecutando archivo app");
-const personasRouter = require("./modules/personas");
-app.use(personas);
+let cod = 5000;
+console.log("Codigo de ejecucion: ", cod);
