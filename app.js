@@ -6,3 +6,4 @@ const articulosRouter = require("./routes/articulos");
 const usuariosRouter = require("./routes/usuarios");
 app.use(usuariosRouter);
 app.use(articulosRouter);
+console.log("ola");
