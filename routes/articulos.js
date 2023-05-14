@@ -19,4 +19,9 @@ router.get("/api/articulos/:id", async function
 (req, res, next) {
  //Código del método
 });
+router.get("/api/usuarios", async function
+(req, res, next) {
+    
+ //Código del método
+});
 module.exports = router;
