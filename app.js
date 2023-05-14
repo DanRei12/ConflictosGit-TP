@@ -8,5 +8,6 @@ app.use(usuariosRouter);
 app.use(articulosRouter);
 
 console.log("Ejecutando archivo app");
-let code = 3000;
+
 console.log("Numero de ejecucion: ", code);
+let name = "Ricardo";
