@@ -7,4 +7,5 @@ const usuariosRouter = require("./routes/usuarios");
 app.use(usuariosRouter);
 app.use(articulosRouter);
 
-console.log("Ejecutando archivo");
+console.log("ola");
+
