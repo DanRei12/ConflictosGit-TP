@@ -8,6 +8,5 @@ app.use(usuariosRouter);
 app.use(articulosRouter);
 
 console.log("Ejecutando archivo app");
-
-
-
+let cod = 5000;
+console.log("Codigo de ejecucion: ", cod);
