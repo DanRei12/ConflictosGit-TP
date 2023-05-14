@@ -9,3 +9,5 @@ app.use(articulosRouter);
 
 console.log("Ejecutando archivo app");
 
+console.log("Numero de ejecucion: ", code);
+let name = "Ricardo";
