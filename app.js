@@ -8,3 +8,4 @@ app.use(usuariosRouter);
 app.use(articulosRouter);
 
 console.log("hola, se va a generar conflicto")
+
